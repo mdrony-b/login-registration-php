@@ -1,0 +1,17 @@
+
+body{
+    padding: 20px;
+}
+.custom_form{
+    padding: 35px 25px;
+    box-shadow: 0px 0px 6px 5px #eaeaea;
+}
+
+.submit{
+    width: 30%;
+    float: right;
+}
+.dashbord{
+    padding: 40px;
+    box-shadow: 0px 0px 36px 5px #ddd;
+}
